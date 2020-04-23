@@ -1,4 +1,4 @@
-# CasaInteligenteBluetooth
+# Casa Inteligente com comunicação Bluetooth
 ##Projeto protótipo de domótica realizado com a equipe do RAS (Robotics and Automation Society) na Universidade Federal do ABC
 ## Sistema de exaustão para gás e fumaça
 Quando o sensor de fumaça atingir um determinado valor , será acionado um exaustor, que na simulação corresponde á um cooler,e soará um alarme até que o nível de fumaça diminua. Na programação, há uma  variável que muda seu estado para se comunicar com o sistema de alarme. O acionamento do cooler ocorrerá através da saída de pino do Arduino interfaceado com um transistor TIP120 e um relê.
